@@ -1,4 +1,4 @@
-package ru.vienoulis.tests5.test_5_2_7;
+package ru.vienoulis.core_5.part_2.exs_7;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
