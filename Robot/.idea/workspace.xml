@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f61c02be-7f0b-40e0-9721-e7cee06ed1a9" name="Default Changelist" comment="" />
+    <list default="true" id="f61c02be-7f0b-40e0-9721-e7cee06ed1a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/META-INF/Robot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/SumOfStream/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/ThreeModyl/Тест.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/acii/Ascii$AsciiCharSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/acii/Ascii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/acii/Refactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/animals/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/animals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/animals/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/ComplexNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/Robot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/RobotConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/RobotConnectionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/robot/RobotConnectionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/serial/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/serial/Seri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/serial/Tail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/system/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Robot/ru/vienoulis/tests5/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/vienoulis/animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/vienoulis/animals/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +40,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XtsiLl3IAAiysBkRIVHuYtv0j2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -39,7 +71,7 @@
       <recent name="C:\Java\JavaMentorLessons\Lessons\Robot\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Seri">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Ascii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.vienoulis.acii.Ascii" />
       <module name="Robot" />
@@ -114,8 +146,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Seri" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Seri" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Ascii" />

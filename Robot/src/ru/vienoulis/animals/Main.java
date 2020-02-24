@@ -47,7 +47,7 @@ public class Main {
     public static Animal[] deserializeAnimalArray(byte[] data) throws IOException {
         Animal[] animals;
         int i;
-        try (ObjectInputStream objectInputStream = new ObjectInputStream(new ByteArrayInputStream(data))) {
+        try (ByteArrayInputStream inputStream = new ByteArrayInputStream(data); ObjectInputStream objectInputStream = new ObjectInputStream(inputStream)) {
             i = objectInputStream.readInt();
             animals = new Animal[i];
             for (int j = 0; j < i; j++) {
@@ -56,10 +56,11 @@ public class Main {
                     throw new IllegalArgumentException();
                 }
             }
-            return animals;
-        } catch (NegativeArraySizeException | ClassNotFoundException | ClassCastException | EOFException e) {
+        } catch (RuntimeException | ClassNotFoundException | EOFException e) {
             throw new IllegalArgumentException();
         }
-
+        return animals;
     }
+
+
 }
