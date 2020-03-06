@@ -1,4 +1,4 @@
-package ru.vienoulis.animals;
+package ru.vienoulis.core_5.part_4.exs_7;
 /*
 Реализуйте метод, который из переданного массива байт восстановит массив объектов Animal.
 Массив байт устроен следующим образом. Сначала идет число типа int, записанное при помощи ObjectOutputStream.writeInt(size).
