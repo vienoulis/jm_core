@@ -5,7 +5,7 @@ import java.util.Arrays;
 public /*static*/ class DynamicArray<T> {
 
     private int size = 10;
-    private int counter = 0;
+     int counter = 0;
     private Object[] objects = new Object[size];
 
     public DynamicArray() {

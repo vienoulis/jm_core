@@ -32,7 +32,6 @@ public class test {
     }
 
     public static class DynamicArray<T> {
-        LinkedList
         private Object[] objects = new Object[]{};
 
         public int length() {

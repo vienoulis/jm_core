@@ -13,6 +13,12 @@ public class Main {
         }
         System.out.println(dynamicArray.get(5));
         dynamicArray.remove(5);
+        dynamicArray.remove(5);
+        dynamicArray.remove(5);
+        dynamicArray.remove(5);
         System.out.println(dynamicArray.get(5));
+        for (int i = 0; i < dynamicArray.counter; i++) {
+            System.out.println(i);
+        }
     }
 }
