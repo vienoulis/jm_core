@@ -1,6 +1,6 @@
 package ru.vienoulis;
 
-public class Salary<Integer>  extends AbstractCase<Integer> implements Executable<Integer> {
+public class Salary<Integer>  extends AbstractCase<Integer> {
     private Integer content;
 
     public Salary(String from, String to, Integer content) {

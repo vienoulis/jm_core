@@ -6,10 +6,11 @@ public abstract class AbstractCase<T> implements Executable<T>{
      String to;
      T content;
 
-
     public AbstractCase(String from, String to) {
         this.from = from;
         this.to = to;
+        String s = null;
+
     }
 
     @Override
