@@ -1,0 +1,10 @@
++ + up right
+- + up left
+0 + up
+0 0 null
++ 0 right
++ - right right
+
+- - left left
+- 0 left
+0 - (left x2)

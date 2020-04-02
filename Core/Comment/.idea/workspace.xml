@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e85c299-6f30-4bc8-83e1-5809d1835568" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XMwwQV8cnw7k4i8SOV8cunPSNH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.vienoulis" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.vienoulis.mail_worker" />
+      <recent name="ru.vienoulis.bank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="BitCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vienoulis.BitCount" />
+      <module name="Comment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vienoulis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comment" />
+      <module name="Comment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vienoulis.sqrtt.Sqrt" />
+      <module name="Comment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vienoulis.sqrtt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vienoulis.bank.Test" />
+      <module name="Comment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vienoulis.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vienoulis.mail_worker.test" />
+      <module name="Comment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.vienoulis.mail_worker.people.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.BitCount" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Sqrt" />
+        <item itemvalue="Application.Comment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e85c299-6f30-4bc8-83e1-5809d1835568" name="Default Changelist" comment="" />
+      <created>1580869509964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580869509964</updated>
+      <workItem from="1580869516339" duration="6133000" />
+      <workItem from="1580999149353" duration="7901000" />
+      <workItem from="1581170259280" duration="3364000" />
+      <workItem from="1581188181072" duration="14302000" />
+      <workItem from="1581416685599" duration="11692000" />
+      <workItem from="1581511437610" duration="3916000" />
+      <workItem from="1581607470783" duration="18678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1581199478291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581199478291" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1581632847140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581632847140" />
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1581645958887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581645958887" />
+    <state width="1877" height="177" key="GridCell.Tab.0.bottom" timestamp="1581646033457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="177" key="GridCell.Tab.0.bottom/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581642118959" />
+    <state width="1877" height="177" key="GridCell.Tab.0.bottom/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581646033457" />
+    <state width="1877" height="177" key="GridCell.Tab.0.center" timestamp="1581646033457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="177" key="GridCell.Tab.0.center/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581642118959" />
+    <state width="1877" height="177" key="GridCell.Tab.0.center/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581646033457" />
+    <state width="1877" height="177" key="GridCell.Tab.0.left" timestamp="1581646033457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="177" key="GridCell.Tab.0.left/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581642118958" />
+    <state width="1877" height="177" key="GridCell.Tab.0.left/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581646033457" />
+    <state width="1877" height="177" key="GridCell.Tab.0.right" timestamp="1581646033457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="177" key="GridCell.Tab.0.right/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581642118959" />
+    <state width="1877" height="177" key="GridCell.Tab.0.right/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581646033457" />
+    <state x="803" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1581607471502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="420" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581607471502" />
+    <state x="690" y="287" key="extract.method.dialog" timestamp="1581448148660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="287" key="extract.method.dialog/-1920.0.1280.693/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581448148660" />
+    <state x="342" y="141" key="new project wizard" timestamp="1581646031590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1581646031590" />
+  </component>
+</project>

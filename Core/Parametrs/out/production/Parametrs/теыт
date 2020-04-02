@@ -1,0 +1,27 @@
+import java.util.Arrays;
+
+public class Test {
+//p{Upper}
+}
+    public static void main(String[] args) {
+        System.out.println(intss("Eva, Can I Stab Bats In A Cave?"));
+        System.out.println(intss("Was it a cat I saw?"));
+    }
+    public static boolean intss(String s){
+        String [] strings = s.split("[^a-zA-Z0-9]");
+        String value = Arrays.toString(strings).toLowerCase();
+        System.out.println(value);
+        if (value.equals("[]")) return true;
+
+
+        char[] startValues = value.toCharArray();
+        char[] resultValues = new char[startValues.length];
+        for (int i = 0; i < startValues.length; i++) {
+            resultValues[resultValues.length- (1 + i)] = startValues[i];
+        }
+        System.out.println(startValues);
+        System.out.println(resultValues);
+        if (Arrays.toString(startValues).equals(Arrays.toString(resultValues))) return true;
+        else return false;
+    }
+}
